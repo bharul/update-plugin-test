@@ -4,7 +4,7 @@
 	"author" : "<a href='https://worldwincoder.com'> WorldWin Coder Pvt Ltd </a>",
 	"author_profile" : "http://profiles.wordpress.org",
 	"version" : "2.0",
-	"download_url" : "https://worldwincoder.net/info.json",
+	"download_url" : "https://github.com/bharul/update-plugin-test",
 	"requires" : "3.0",
 	"tested" : "5.8",
 	"requires_php" : "5.3",
