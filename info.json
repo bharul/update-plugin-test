@@ -1,0 +1,18 @@
+{
+	"name" : "Update Test",
+	"slug" : "update-test",
+	"author" : "<a href='https://worldwincoder.com'> WorldWin Coder Pvt Ltd </a>",
+	"author_profile" : "http://profiles.wordpress.org",
+	"version" : "2.0",
+	"download_url" : "https://worldwincoder.net/info.json",
+	"requires" : "3.0",
+	"tested" : "5.8",
+	"requires_php" : "5.3",
+	"last_updated" : "2022-12-21 02:10:00",
+	"sections" : {
+		"description" : "This simple plugin does nothing, only gets updates from a custom server",
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	}
+	
+}
